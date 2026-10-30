@@ -2,11 +2,11 @@
 
 # LoyaltyHub
 
-**Müşterilere bağlı kalmaları için bir neden sunun.**
-
 [Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
 
-<img src="assets/product-hero.svg" width="100%" alt="LoyaltyHub — Loyalty cards, clubs & points; kavramsal çizim" />
+<img src="assets/product-hero.svg" width="100%" alt="LoyaltyHub — ürün görsel sunumu" />
+
+**Müşterilere bağlı kalmaları için bir neden sunun.**
 
 [![Website](https://img.shields.io/badge/loyaltyhub.mk-Official_Website-1476e8?style=for-the-badge)](https://loyaltyhub.mk)
 [![Explore](https://img.shields.io/badge/Explore-LoyaltyHub-14223c?style=for-the-badge)](https://loyaltyhub.mk)
